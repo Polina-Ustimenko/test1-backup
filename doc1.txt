@@ -1,8 +1,4 @@
 info1
 info2 added
 
-THIS info CHANGED
-
-added more more info3
-
-this changed for feature commit
+Something important for main
